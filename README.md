@@ -65,7 +65,7 @@ The robot architecture integrates an L298N (or similar) H-Bridge Dual DC Motor D
 * **Motor Driver:** L298N Dual H-Bridge DC Motor Driver Module
 * **Sensor Array:** 5-Channel Infrared (IR) Reflective Line Tracking Sensor Module
 * **Actuators:** 2 x High-Torque Geared DC Motors
-* **Power Source:** Li-ion Rechargeable Battery Pack (with step-down regulator if applicable)
+* **Power Source:** Li-ion Rechargeable Battery Pack
 * **Chassis:** Robot Smart Car Chassis Platform (including wheels and caster)
 
 ---
@@ -74,7 +74,9 @@ The robot architecture integrates an L298N (or similar) H-Bridge Dual DC Motor D
 
 Special thanks to the project team members who made this system possible:
 
-* **Abdallah Mahmoud - 900221058 - abdallah_walid8@aucegypt.edu**
-* **Hamdy Moussa - 900221818 - hamdy04@aucegypt.edu**
-* **Youssef Tantawy - 900221189 - yousseftantawy@aucegypt.edu**
-* **Ismail Zidane - 900211327 - ismailzidan@aucegypt.edu**
+* **Abdallah Mahmoud - 900221058 - abdallah_walid8@aucegypt.edu** : Software Architecture
+* **Hamdy Moussa - 900221818 - hamdy04@aucegypt.edu** : Hardware Schematics
+* **Youssef Tantawy - 900221189 - yousseftantawy@aucegypt.edu** : Software Architecture
+* **Ismail Zidane - 900211327 - ismailzidan@aucegypt.edu** : Hardware Schematics
+
+Team 7 - ECNG 4504 - Fall 2026

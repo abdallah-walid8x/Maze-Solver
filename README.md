@@ -56,3 +56,25 @@ The robot architecture integrates an L298N (or similar) H-Bridge Dual DC Motor D
 * **Cruise Speed:** `70` (PWM Duty Cycle for optimal straight line traction)
 * **Sharp Turn Speed:** `140` (PWM Duty Cycle for powerful axis pivoting)
 * **Turn Clearance Window:** Dynamic tracking overrides (`delay(150)`) are embedded to ensure physical sensor hardware rotates completely past the intersecting line before validating line-reacquisition checks.
+
+---
+
+## 📦 Hardware Components Used
+
+* **Microcontroller:** Arduino Mega 2560
+* **Motor Driver:** L298N Dual H-Bridge DC Motor Driver Module
+* **Sensor Array:** 5-Channel Infrared (IR) Reflective Line Tracking Sensor Module
+* **Actuators:** 2 x High-Torque Geared DC Motors
+* **Power Source:** Li-ion Rechargeable Battery Pack (with step-down regulator if applicable)
+* **Chassis:** Robot Smart Car Chassis Platform (including wheels and caster)
+
+---
+
+## 👥 Contributors
+
+Special thanks to the project team members who made this system possible:
+
+* **Abdallah Mahmoud - 900221058 - abdallah_walid8@aucegypt.edu**
+* **Hamdy Moussa - 900221818 - hamdy04@aucegypt.edu**
+* **Youssef Tantawy - 900221189 - yousseftantawy@aucegypt.edu**
+* **Ismail Zidane - 900211327 - ismailzidan@aucegypt.edu**
